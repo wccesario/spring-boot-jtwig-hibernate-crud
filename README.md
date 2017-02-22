@@ -1,5 +1,6 @@
 # Spring Boot with JTWIG and Hibernate
-A very simple CRUD made with Spring Boot, using Hibernate as ORM and JTWIG as template engine.
+A very simple CRUD built with Maven, Spring Boot, using Hibernate as ORM and JTWIG as template engine.
+
 
 The dump used in this projected is at the docs diretory.
 
