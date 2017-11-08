@@ -2,7 +2,7 @@
 A very simple CRUD built with Maven, Spring Boot, using Hibernate as ORM and JTWIG as template engine.
 
 
-The dump used in this projected is at the docs diretory.
+The dump used in this project is at the docs diretory.
 
 This code is merely for sample purposes but I would be happy if this ends up helping somebody.
 
